@@ -11,7 +11,7 @@ A basic to-do list web application built using HTML, CSS, and JavaScript.
 ## 💻 Technologies Used
 - HTML5
 - CSS3
-- Vanilla JavaScript
+-  JavaScript
 
 ## 🚀 How to Use
 1. Open `index.html` in your browser.
